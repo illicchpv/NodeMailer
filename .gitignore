@@ -1,0 +1,6 @@
+# not for server
+/node_modules
+/.vscode 
+/.idea
+.env
+.---*.*
